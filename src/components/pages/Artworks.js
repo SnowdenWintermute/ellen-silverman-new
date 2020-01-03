@@ -1,28 +1,38 @@
 import React, { Component } from "react";
 
-import PaintingCategoryCard from "../paintings/PaintingCategoryCard";
-
-import paintingList from "./paintingList";
-import getCategoryListWithCoverImages from "../utils/getCategoryListWithCoverImages";
+import Categories from "./Categories";
+import ArtworksCategory from "./ArtworksCategory";
+import PaintingDetailedPage from "./PaintingDetailedPage";
 
 export default class Artworks extends Component {
   render() {
-    const categoryListWithCoverImages = getCategoryListWithCoverImages(
-      paintingList.Sheet1
-    );
-    console.log(categoryListWithCoverImages);
-    let cards = [];
-    categoryListWithCoverImages.forEach(item => {
-      cards.push(
-        <PaintingCategoryCard
-          imgSrc={{
-            uri: item.coverImg
-          }}
-          picTitle={item.category}
-          linkTo={`/artworks/${item.category}`}
-        />
-      );
-    });
-    return <div className="galleryHolder">{cards}</div>;
+    let { params } = this.props.match;
+    let pageState = "";
+    let page;
+    if (params) {
+      if (params.category && params.painting) {
+        pageState = "detailPage";
+      } else if (params.category) {
+        pageState = "categoryPage";
+      }
+    }
+
+    switch (pageState) {
+      case "":
+        page = <Categories></Categories>;
+        break;
+      case "categoryPage":
+        page = <ArtworksCategory category={params.category}></ArtworksCategory>;
+        break;
+      case "detailPage":
+        page = (
+          <PaintingDetailedPage
+            category={params.category}
+            paintingName={params.painting}
+          ></PaintingDetailedPage>
+        );
+    }
+
+    return <React.Fragment>{page}</React.Fragment>;
   }
 }

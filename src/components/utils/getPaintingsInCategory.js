@@ -6,7 +6,7 @@ export default function getPaintingsInCategory(paintingList, categoryName) {
     const lowerCaseCategory = painting["Category"]
       ? getLowerCaseNoDash(painting["Category"])
       : "";
-    if (lowerCaseCategory == getLowerCaseNoDash(categoryName))
+    if (lowerCaseCategory === getLowerCaseNoDash(categoryName))
       newArr.push(painting);
   });
   return newArr;

@@ -2,17 +2,14 @@ import React, { Component } from "react";
 import { Link } from "react-router-dom";
 
 export default class PageLabel extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      currentPage: this.props.match.params.page,
-      category: this.props.match.params.category
-    };
-  }
-
   render() {
-    let { currentPage, category } = this.state;
+    let currentPage, category, paintingName;
     let capitalizedCategory, capitalizedCurrentPage;
+    if (this.props.match.params) {
+      currentPage = this.props.match.params.page;
+      category = this.props.match.params.category;
+      paintingName = this.props.match.params.painting;
+    }
     if (currentPage) {
       capitalizedCurrentPage =
         currentPage.charAt(0).toUpperCase() + currentPage.slice(1);
@@ -29,7 +26,17 @@ export default class PageLabel extends Component {
             {currentPage ? " - " : ""}
             <Link to={`/${currentPage}`}>{capitalizedCurrentPage}</Link>
             {capitalizedCategory ? " - " : ""}
-            {capitalizedCategory}
+            {capitalizedCategory && (
+              <Link to={`/${currentPage}/${category}`}>
+                {capitalizedCategory}
+              </Link>
+            )}
+            {paintingName && " - "}
+            {paintingName && (
+              <Link to={`/${currentPage}/${category}/${paintingName}`}>
+                {paintingName}
+              </Link>
+            )}
           </p>
           <hr />
         </div>

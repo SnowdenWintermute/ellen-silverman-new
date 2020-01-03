@@ -6,16 +6,22 @@ import Navbar from "./components/layout/Navbar";
 import PageLabel from "./components/layout/PageLabel";
 import Footer from "./components/layout/Footer";
 import Artworks from "./components/pages/Artworks";
-import ArtworksCategory from "./components/pages/ArtworksCategory";
 
 function App() {
   return (
     <Router>
       <div className="App">
         <Navbar />
-        <Route exact path="/:page?/:category?" component={PageLabel} />
-        <Route exact path="/artworks" component={Artworks} />
-        <Route exact path="/artworks/:category" component={ArtworksCategory} />
+        <Route
+          exact
+          path="/:page?/:category?/:painting?/"
+          component={PageLabel}
+        />
+        <Route
+          exact
+          path="/artworks/:category?/:painting?"
+          component={Artworks}
+        />
         <Footer />
       </div>
     </Router>

@@ -81,7 +81,7 @@ export default {
           "Category": "Winter Landscape"
       },
       {
-          "Name": "Winter Farm   ",
+          "Name": "Winter Farm",
           "Size": "11\" X 14\"",
           "Year": "2015",
           "Material": "Acrylic",
@@ -273,7 +273,7 @@ export default {
           "Category": "Stone in the Middle of the Road"
       },
       {
-          "Name": "Stone in the Middle of the Road,  As the Leaves Fall",
+          "Name": "Stone in the Middle of the Road, As the Leaves Fall",
           "Size": "10\" x 10\"",
           "Year": "2015",
           "Material": "Acrylic",
@@ -318,10 +318,10 @@ export default {
           "Year": "2015",
           "Material": "Acrylic",
           "Cost unframed": "260",
-          "Category": "Stone in the Middle of the Road, Split in Two"
+          "Category": "Stone in the Middle of the Road"
       },
       {
-          "Name": "Stone in the Middle of the Road, It is the Small Things That Make a Difference ",
+          "Name": "Stone in the Middle of the Road, It is the Small Things That Make a Difference",
           "Size": "10\" x 10\"",
           "Year": "2015",
           "Material": "Acrylic",
@@ -337,7 +337,7 @@ export default {
           "Category": "Drawing"
       },
       {
-          "Name": "Advise for the Queen",
+          "Name": "Advice for the Queen",
           "Size": "11\" X 14\" mat",
           "Year": "2006-2008",
           "Material": "Pencil on paper",
@@ -345,7 +345,7 @@ export default {
           "Category": "Drawing"
       },
       {
-          "Name": "Amalia's Pearls",
+          "Name": "Amelia's Pearls",
           "Size": "11\" X 14\" mat",
           "Year": "2006-2008",
           "Material": "Pencil on paper",
@@ -665,7 +665,7 @@ export default {
           "Category": "Drawing"
       },
       {
-          "Name": "The Cosmic Car Therory",
+          "Name": "The Cosmic Car Theory",
           "Size": "11\"  X 14\" mat",
           "Year": "2006-2008",
           "Material": "Pencil on paper",
@@ -881,7 +881,7 @@ export default {
           "Category": "Cold River Camp"
       },
       {
-          "Name": "Cold River Vantican City",
+          "Name": "Cold River Vatican City",
           "Size": "11\" X 14\" mat",
           "Year": "2014",
           "Material": "Watercolor on paper",
@@ -921,7 +921,7 @@ export default {
           "Category": "Cold River Camp"
       },
       {
-          "Name": "Bears",
+          "Name": "Bear",
           "Size": "10\" x 8\" mat",
           "Year": "2011",
           "Material": "Acrylic",
@@ -929,7 +929,7 @@ export default {
           "Category": "Animals"
       },
       {
-          "Name": "Bommer",
+          "Name": "Boomer",
           "Size": "10\" x 8\" mat",
           "Year": "2011",
           "Material": "Acrylic",
@@ -937,7 +937,7 @@ export default {
           "Category": "Animals"
       },
       {
-          "Name": "Bommer 2",
+          "Name": "Boomer 2",
           "Size": "10\" x 8\" mat",
           "Year": "2011",
           "Material": "Acrylic",
@@ -945,7 +945,7 @@ export default {
           "Category": "Animals"
       },
       {
-          "Name": "Cat  ",
+          "Name": "Cat",
           "Size": "10\" x 8\" mat",
           "Year": "2011",
           "Material": "Acrylic",
@@ -961,7 +961,7 @@ export default {
           "Category": "Animals"
       },
       {
-          "Name": "Chipmunk",
+          "Name": "Chipmunks",
           "Size": "10\" x 8\" mat",
           "Year": "2011",
           "Material": "Acrylic",
@@ -969,7 +969,7 @@ export default {
           "Category": "Animals"
       },
       {
-          "Name": "Chipmunk 2",
+          "Name": "Chipmunks 2",
           "Size": "10\" x 8\" mat",
           "Year": "2011",
           "Material": "Acrylic",
@@ -1017,7 +1017,7 @@ export default {
           "Category": "Animals"
       },
       {
-          "Name": "Fox 2",
+          "Name": "Foxes",
           "Size": "10\" x 8\" mat",
           "Year": "2011",
           "Material": "Acrylic",
@@ -2086,7 +2086,7 @@ export default {
           "Category": "Acrylic Collage"
       },
       {
-          "Name": "Black Bill Magpie",
+          "Name": "Black Bill Magpies",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
@@ -2182,7 +2182,7 @@ export default {
           "Category": "Animals"
       },
       {
-          "Name": "Custard Park Buffalo",
+          "Name": "Custer Park Buffalo",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
@@ -2190,7 +2190,7 @@ export default {
           "Category": "Animals"
       },
       {
-          "Name": "Antelope ",
+          "Name": "Antelope",
           "Size": "5\" x 7\"   ",
           "Year": "2019",
           "Material": "Acrylic",
@@ -2371,7 +2371,7 @@ export default {
           "Year": "2019",
           "Material": "Acrylic",
           "Cost unframed": "1030",
-          "Category": "South Dekota Trip"
+          "Category": "South Dakota Trip"
       },
       {
           "Name": "Nebraska Cows",
@@ -2379,15 +2379,15 @@ export default {
           "Year": "2019",
           "Material": "Acrylic",
           "Cost unframed": "370",
-          "Category": "South Dekota Trip"
+          "Category": "South Dakota Trip"
       },
       {
-          "Name": "Antelope ",
+          "Name": "Antelope",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
           "Cost unframed": "90",
-          "Category": "South Dekota Trip"
+          "Category": "South Dakota Trip"
       },
       {
           "Name": "Black Hill's Water Fall",
@@ -2395,7 +2395,7 @@ export default {
           "Year": "2019",
           "Material": "Acrylic",
           "Cost unframed": "210",
-          "Category": "South Dekota Trip"
+          "Category": "South Dakota Trip"
       },
       {
           "Name": "Buffalo",
@@ -2403,7 +2403,7 @@ export default {
           "Year": "2019",
           "Material": "Acrylic",
           "Cost unframed": "90",
-          "Category": "South Dekota Trip"
+          "Category": "South Dakota Trip"
       },
       {
           "Name": "Custard Park Buffalo",
@@ -2411,7 +2411,7 @@ export default {
           "Year": "2019",
           "Material": "Acrylic",
           "Cost unframed": "90",
-          "Category": "South Dekota Trip"
+          "Category": "South Dakota Trip"
       },
       {
           "Name": "Field and Devil's Tower",
@@ -2419,7 +2419,7 @@ export default {
           "Year": "2019",
           "Material": "Acrylic",
           "Cost unframed": "90",
-          "Category": "South Dekota Trip"
+          "Category": "South Dakota Trip"
       },
       {
           "Name": "Cows in Overcast Field",
@@ -2427,7 +2427,7 @@ export default {
           "Year": "2019",
           "Material": "Acrylic",
           "Cost unframed": "400",
-          "Category": "South Dekota Trip"
+          "Category": "South Dakota Trip"
       },
       {
           "Name": "Red and Blue Cows",
@@ -2435,7 +2435,7 @@ export default {
           "Year": "2019",
           "Material": "Acrylic",
           "Cost unframed": "90",
-          "Category": "South Dekota Trip"
+          "Category": "South Dakota Trip"
       },
       {
           "Name": "Turkeys",
@@ -2443,7 +2443,7 @@ export default {
           "Year": "2019",
           "Material": "Acrylic",
           "Cost unframed": "sold",
-          "Category": "South Dekota Trip"
+          "Category": "South Dakota Trip"
       },
       {
           "Name": "View from Corkscrew Road",
@@ -2451,7 +2451,7 @@ export default {
           "Year": "2019",
           "Material": "Acrylic",
           "Cost unframed": "210",
-          "Category": "South Dekota Trip"
+          "Category": "South Dakota Trip"
       },
       {
           "Name": "Black Bill Magpie",
@@ -2459,7 +2459,7 @@ export default {
           "Year": "2019",
           "Material": "Acrylic",
           "Cost unframed": "90",
-          "Category": "South Dekota Trip"
+          "Category": "South Dakota Trip"
       },
       {
           "Name": "Hackberry",
@@ -2506,119 +2506,119 @@ export default {
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylc",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad's Wedding 2",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad's Wedding 3",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad's Wedding 4",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad's Wedding 5",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad's Wedding 6",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad's Wedding 7",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad's Wedding 8",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad's Wedding 9",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad's Wedding 10",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad's Wedding 11",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad's Wedding 12",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad's Wedding 13",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad's Wedding 14",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad's Wedding 15",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad's Wedding 16",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad's Wedding 17",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Wedding movie"
+          "Category": "Mom and Dad's Wedding Movie"
       },
       {
           "Name": "Mom and Dad Dancing 1",

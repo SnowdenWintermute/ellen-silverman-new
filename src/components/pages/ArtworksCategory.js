@@ -5,24 +5,19 @@ import paintingList from "./paintingList";
 import getPaintingsInCategory from "../utils/getPaintingsInCategory";
 
 export default class ArtworksCategory extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      category: this.props.match.params.category
-    };
-  }
   render() {
+    let cards = [];
     const paintingsInCategory = getPaintingsInCategory(
       paintingList.Sheet1,
-      this.props.match.params.category
+      this.props.category
     );
-    let cards = [];
     paintingsInCategory.forEach((painting, i) => {
       cards.push(
         <PaintingCategoryCard
           imgSrc={{
             uri: `../img/${painting["Category"]}/${painting["Name"]}.jpg`
           }}
+          category={painting["Category"]}
           picTitle={painting["Name"]}
           picSize={painting["Size"]}
           year={painting["Year"]}
@@ -33,7 +28,9 @@ export default class ArtworksCategory extends Component {
     });
     return (
       <div>
-        <div className="galleryHolder"> {cards}</div>
+        <div className="galleryHolderHolder">
+          <div className="galleryHolder"> {cards}</div>
+        </div>
       </div>
     );
   }

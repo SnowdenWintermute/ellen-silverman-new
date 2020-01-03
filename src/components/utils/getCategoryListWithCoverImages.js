@@ -3,7 +3,7 @@ module.exports = function getCategoryListWithCoverImages(paintings) {
   paintings.forEach(painting => {
     let addCategoryBool = true;
     categoryListWithCoverImages.forEach(categoryAndImage => {
-      if (categoryAndImage.category == painting["Category"]) {
+      if (categoryAndImage.category === painting["Category"]) {
         addCategoryBool = false;
       }
     });
