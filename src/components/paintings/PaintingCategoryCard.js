@@ -3,8 +3,9 @@ import { Link } from "react-router-dom";
 
 export default function PaintingCategoryCard(props) {
   return (
-    <div className="galleryPicHolder">
+    <div className="painting-card-body">
       <Link
+        className="painting-card-img-link"
         to={
           props.linkTo
             ? props.linkTo
@@ -12,12 +13,10 @@ export default function PaintingCategoryCard(props) {
         }
       >
         <img src={props.imgSrc.uri} alt={props.picTitle} />
+        <div className="painting-card-info-text">
+          <div className="galleryPicTitle">{props.picTitle}</div>
+        </div>
       </Link>
-      <div className="galleryPicInfoText">
-        <div className="galleryPicTitle">{props.picTitle}</div>
-        <div className="galleryPicSize">{props.picSize}</div>
-        <div className="galleryPicPrice">{props.price} </div>
-      </div>
     </div>
   );
 }

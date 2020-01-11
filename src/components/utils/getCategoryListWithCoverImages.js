@@ -10,7 +10,7 @@ module.exports = function getCategoryListWithCoverImages(paintings) {
     if (addCategoryBool) {
       categoryListWithCoverImages.push({
         category: painting["Category"],
-        coverImg: `../img/${painting["Category"]}/${painting["Name"]}.jpg`
+        coverImg: `../img/${painting["Category"]}/thumbs/${painting["Name"]}.jpg`
       });
     }
   });

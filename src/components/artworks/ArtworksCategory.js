@@ -5,6 +5,9 @@ import paintingList from "./paintingList";
 import getPaintingsInCategory from "../utils/getPaintingsInCategory";
 
 export default class ArtworksCategory extends Component {
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   render() {
     let cards = [];
     const paintingsInCategory = getPaintingsInCategory(
@@ -15,7 +18,7 @@ export default class ArtworksCategory extends Component {
       cards.push(
         <PaintingCategoryCard
           imgSrc={{
-            uri: `../img/${painting["Category"]}/${painting["Name"]}.jpg`
+            uri: `../img/${painting["Category"]}/thumbs/${painting["Name"]}.jpg`
           }}
           category={painting["Category"]}
           picTitle={painting["Name"]}

@@ -1110,7 +1110,7 @@ export default {
           "Year": "2009",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
           "Name": "7 13 09 2",
@@ -1118,7 +1118,7 @@ export default {
           "Year": "2009",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
           "Name": "7 13 09 3",
@@ -1126,7 +1126,7 @@ export default {
           "Year": "2009",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
           "Name": "7 16 09",
@@ -1134,7 +1134,7 @@ export default {
           "Year": "2009",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
           "Name": "7 16 09 Evening",
@@ -1142,7 +1142,7 @@ export default {
           "Year": "2009",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
           "Name": "7 23 09",
@@ -1150,7 +1150,7 @@ export default {
           "Year": "2009",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
           "Name": "7 24 09 Morning",
@@ -1158,7 +1158,7 @@ export default {
           "Year": "2009",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
           "Name": "7 24 09 Sunset",
@@ -1166,7 +1166,7 @@ export default {
           "Year": "2009",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
           "Name": "School Doors",
@@ -1174,7 +1174,7 @@ export default {
           "Year": "2008",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
           "Name": "Sea Isle City Sunrise",
@@ -1182,103 +1182,103 @@ export default {
           "Year": "2015",
           "Material": "Watercolor on paper",
           "Cost unframed": "300",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise/ Sunset 2008 i",
+          "Name": "Sunrise, Sunset 2008 i",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise/ Sunset 2008 ii",
+          "Name": "Sunrise, Sunset 2008 ii",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise/ Sunset 2008 iii",
+          "Name": "Sunrise, Sunset 2008 iii",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise/ Sunset 2008 iv",
+          "Name": "Sunrise, Sunset 2008 iv",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise/ Sunset 2008 ix",
+          "Name": "Sunrise, Sunset 2008 ix",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise/ Sunset 2008 v",
+          "Name": "Sunrise, Sunset 2008 v",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise/ Sunset 2008 vi",
+          "Name": "Sunrise, Sunset 2008 vi",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise/ Sunset 2008 vii",
+          "Name": "Sunrise, Sunset 2008 vii",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise/ Sunset 2008 viii",
+          "Name": "Sunrise, Sunset 2008 viii",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise/ Sunset 2008 x",
+          "Name": "Sunrise, Sunset 2008 x",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise/Sunset 2008 xi",
+          "Name": "Sunrise, Sunset 2008 xi",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise/ Sunset 2008 xii",
+          "Name": "Sunrise, Sunset 2008 xii",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
           "Name": "C1",
@@ -1385,7 +1385,7 @@ export default {
           "Category": "Abstract and Fantasy"
       },
       {
-          "Name": "Natures Bath",
+          "Name": "Nature's Bath",
           "Size": "18\" x 24\" mat",
           "Year": "2009",
           "Material": "Pastels",
@@ -1584,7 +1584,7 @@ export default {
           "Category": "Field and Lakes"
       },
       {
-          "Name": "Assunpink Fall Summer Fields",
+          "Name": "Assunpink Summer Fields",
           "Size": "11\" X 14\"",
           "Material": "Watercolor on paper",
           "Cost unframed": "400",
@@ -1703,7 +1703,7 @@ export default {
           "Category": "Field and Lakes"
       },
       {
-          "Name": "NJ Farm  ",
+          "Name": "NJ Farm",
           "Size": "7\" x 9\"",
           "Material": "Pastels",
           "Cost unframed": "90",
@@ -1774,7 +1774,7 @@ export default {
           "Category": "Forest Path"
       },
       {
-          "Name": "Mountain Fall",
+          "Name": "Mountain Falls",
           "Size": "8\" x 10\"",
           "Material": "Acrylic",
           "Cost unframed": "275",
@@ -1935,7 +1935,7 @@ export default {
           "Size": "11\" x 14\" mat",
           "Material": "Colored Pencil",
           "Cost unframed": "50",
-          "Category": "Sunrise/Sunset Series"
+          "Category": "Sunrise, Sunset Series"
       },
       {
           "Name": "7 16 09",
@@ -1987,35 +1987,35 @@ export default {
           "Category": "Gardens"
       },
       {
-          "Name": "Kirk and Susan's Garde 4 ",
+          "Name": "Kirk and Susan's Garden 4",
           "Size": "11\" x 14\" mat",
           "Material": "Watercolor on paper",
           "Cost unframed": "sold",
           "Category": "Gardens"
       },
       {
-          "Name": "Kirk and Susan's Garden 5 ",
+          "Name": "Kirk and Susan's Garden 5",
           "Size": "11\" x 14\" mat",
           "Material": "Watercolor on paper",
           "Cost unframed": "sold",
           "Category": "Gardens"
       },
       {
-          "Name": "Kirk and Susan's Garden 6     ",
+          "Name": "Kirk and Susan's Garden 6",
           "Size": "11\" x 14\" mat",
           "Material": "Watercolor on paper",
           "Cost unframed": "sold",
           "Category": "Gardens"
       },
       {
-          "Name": "Kuser Mansion ",
+          "Name": "Kuser Mansion",
           "Size": "11\" X 14\"",
           "Material": "Acrylic",
           "Cost unframed": "400",
           "Category": "Gardens"
       },
       {
-          "Name": "Kuser Mansion 2 ",
+          "Name": "Kuser Mansion 2",
           "Size": "11\" x 14\"",
           "Material": "Acrylic",
           "Cost unframed": "400",
@@ -2390,7 +2390,7 @@ export default {
           "Category": "South Dakota Trip"
       },
       {
-          "Name": "Black Hill's Water Fall",
+          "Name": "Black Hills Waterfall",
           "Size": "8\" x 10\"",
           "Year": "2019",
           "Material": "Acrylic",
@@ -2406,7 +2406,7 @@ export default {
           "Category": "South Dakota Trip"
       },
       {
-          "Name": "Custard Park Buffalo",
+          "Name": "Custer Park Buffalo",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
@@ -2454,7 +2454,7 @@ export default {
           "Category": "South Dakota Trip"
       },
       {
-          "Name": "Black Bill Magpie",
+          "Name": "Black Bill Magpies",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
@@ -2625,420 +2625,420 @@ export default {
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 2",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 3",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 4",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 5",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 6",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 7",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 8",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 9",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 10",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 11",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 12",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 13",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 14",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 15",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 16",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 17",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 18",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 19",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom and Dad Dancing 20",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom and Dad's Dancing the Movie"
+          "Category": "Mom and Dad Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 1",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 2",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 3",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 4",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 5",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 6",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 7",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 8",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 9",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 10",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 11",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 12",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 13",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 14",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 15",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 16",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 17",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 18",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 19",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
-          "Name": "Mom Dancing 20 ",
+          "Name": "Mom Dancing 20",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Mom Dancing 21",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Mom Dancing the Movie"
+          "Category": "Mom Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 1",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 2",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 3",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 4",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 5",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 6",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 7",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 8",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 9",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 10",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 11",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 12",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 13",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 14",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 15",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 16",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 17",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 18",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
       {
           "Name": "Dad Dancing 19",
           "Size": "5\" x 7\"",
           "Year": "2019",
           "Material": "Acrylic",
-          "Category": "Dad Dancing the Movie"
+          "Category": "Dad Dancing, the Movie"
       },
   ]
 };

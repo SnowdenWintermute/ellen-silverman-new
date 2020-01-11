@@ -31,6 +31,8 @@ export default class Artworks extends Component {
             paintingName={params.painting}
           ></PaintingDetailedPage>
         );
+        break;
+      default:
     }
 
     return <React.Fragment>{page}</React.Fragment>;
