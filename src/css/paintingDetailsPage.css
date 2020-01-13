@@ -1,6 +1,7 @@
 /* Painting Details Page */
 .painting-details-page {
   padding: 20px 20px 100px 100px;
+  min-height: calc(100vh - 184px);
 }
 .painting-details-content-holder {
   margin: 0 auto;
@@ -12,7 +13,7 @@
 .painting-details-img {
   border: 1px solid black;
   margin: 0px 30px 30px 30px;
-  max-height: 500px;
+  /* max-height: 500px; */
   width: 600px;
   max-width: 100%;
   display: inline-block;
@@ -21,9 +22,10 @@
   display: inline-block;
   border: 1px solid black;
   background: #fafafa;
-  /* width: 30%; */
+  font-family: "Josefin Slab";
   height: 200px;
   padding: 20px;
+  font-size: 1.2em;
 }
 .painting-title {
   font-style: italic;
@@ -45,18 +47,31 @@
     margin: 0 0 20px 0;
   }
   .painting-title {
-    font-size: 1.1em;
+    font-size: 1.2em;
   }
   .painting-details-text-box {
     width: 500px;
     max-width: 100%;
-    /* font-size: 1em; */
+    font-size: 1.2em;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .painting-title {
+    /* font-size: 0.8em; */
+  }
+  .painting-details-text-box {
+    font-size: 1.1em;
   }
 }
 @media only screen and (max-width: 400px) {
   .painting-title {
-    font-size: 0.8em;
+    /* font-size: 0.8em; */
   }
+  .painting-details-text-box {
+    font-size: 1em;
+  }
+}
+@media only screen and (max-width: 270px) {
   .painting-details-text-box {
     font-size: 0.8em;
   }

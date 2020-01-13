@@ -14,6 +14,12 @@
 #nav-spacer {
   height: 70px;
 }
+#hamburger {
+  position: absolute;
+  right: 15px;
+  top: 18px;
+  display: none;
+}
 .menu {
   height: 70px;
   width: 90vw;
@@ -75,6 +81,9 @@ label {
 }
 
 @media only screen and (max-width: 700px) {
+  #hamburger {
+    display: block;
+  }
   #top-bar {
     width: 0px;
     transition: 0.3s;

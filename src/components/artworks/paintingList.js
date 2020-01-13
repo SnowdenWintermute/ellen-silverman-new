@@ -1185,7 +1185,7 @@ export default {
           "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise, Sunset 2008 i",
+          "Name": "Sunrise, Sunset 2008 I",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
@@ -1193,7 +1193,7 @@ export default {
           "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise, Sunset 2008 ii",
+          "Name": "Sunrise, Sunset 2008 II",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
@@ -1201,7 +1201,7 @@ export default {
           "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise, Sunset 2008 iii",
+          "Name": "Sunrise, Sunset 2008 III",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
@@ -1209,7 +1209,7 @@ export default {
           "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise, Sunset 2008 iv",
+          "Name": "Sunrise, Sunset 2008 IV",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
@@ -1217,7 +1217,7 @@ export default {
           "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise, Sunset 2008 ix",
+          "Name": "Sunrise, Sunset 2008 IX",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
@@ -1225,7 +1225,7 @@ export default {
           "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise, Sunset 2008 v",
+          "Name": "Sunrise, Sunset 2008 V",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
@@ -1233,7 +1233,7 @@ export default {
           "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise, Sunset 2008 vi",
+          "Name": "Sunrise, Sunset 2008 VI",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
@@ -1241,7 +1241,7 @@ export default {
           "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise, Sunset 2008 vii",
+          "Name": "Sunrise, Sunset 2008 VII",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
@@ -1249,7 +1249,7 @@ export default {
           "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise, Sunset 2008 viii",
+          "Name": "Sunrise, Sunset 2008 VIII",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
@@ -1257,7 +1257,7 @@ export default {
           "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise, Sunset 2008 x",
+          "Name": "Sunrise, Sunset 2008 X",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
@@ -1265,7 +1265,7 @@ export default {
           "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise, Sunset 2008 xi",
+          "Name": "Sunrise, Sunset 2008 XI",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
@@ -1273,7 +1273,7 @@ export default {
           "Category": "Sunrise, Sunset Series"
       },
       {
-          "Name": "Sunrise, Sunset 2008 xii",
+          "Name": "Sunrise, Sunset 2008 XII",
           "Size": "10\" x 8\" mat",
           "Year": "2008",
           "Material": "Watercolor on paper",
@@ -1537,7 +1537,7 @@ export default {
           "Category": "Bone"
       },
       {
-          "Name": "Bone Series xx",
+          "Name": "Bone Series XX",
           "Size": "11\" x 14\" mat",
           "Year": "1977",
           "Material": "Ink on paper",
@@ -1545,7 +1545,7 @@ export default {
           "Category": "Bone"
       },
       {
-          "Name": "Bone Series xxi",
+          "Name": "Bone Series XXI",
           "Size": "11\" x 14\" mat",
           "Year": "1977",
           "Material": "Mixmedia",
@@ -1633,7 +1633,7 @@ export default {
           "Category": "Field and Lakes"
       },
       {
-          "Name": "Clay Print of leaves",
+          "Name": "Clay Print of Leaves",
           "Size": "11\" x 14\"",
           "Material": "Clay",
           "Cost unframed": "75",
@@ -2235,6 +2235,30 @@ export default {
           "Year": "2019",
           "Material": "Watercolor on paper",
           "Cost unframed": "800",
+          "Category": "Other Interiors"
+      },
+      {
+          "Name": "Trent House Chairs",
+          "Size": "6\" x 7\" mat",
+          "Year": "2019",
+          "Material": "Watercolor",
+          "Cost unframed": "90",
+          "Category": "Other Interiors"
+      },
+      {
+          "Name": "Trent House Bedroom",
+          "Size": "6\" x 7\" mat",
+          "Year": "2019",
+          "Material": "Watercolor",
+          "Cost unframed": "90",
+          "Category": "Other Interiors"
+      },
+      {
+          "Name": "Yale Library",
+          "Size": "11\" x 14\" mat",
+          "Year": "2019",
+          "Material": "Watercolor",
+          "Cost unframed": "400",
           "Category": "Other Interiors"
       },
       {

@@ -4,7 +4,6 @@ import { ReactSVG } from "react-svg";
 
 import ImageFadeSlideshow from "./ImageFadeSlideshow";
 import ElementSlider from "./ElementSlider";
-import PaintingCategoryCard from "../paintings/PaintingCategoryCard";
 
 export default class LandingPage extends Component {
   render() {

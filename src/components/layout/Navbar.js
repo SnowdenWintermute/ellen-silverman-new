@@ -4,6 +4,9 @@ import { ReactSVG } from "react-svg";
 
 import { ReactComponent as HomeIcon } from "../../home.svg";
 
+import HamburgerMenu from "react-hamburger-menu";
+import Swipe from "react-easy-swipe";
+
 export default class Navbar extends Component {
   constructor(props) {
     super(props);
@@ -37,6 +40,11 @@ export default class Navbar extends Component {
     this.setState({ hamburgerMenuShowing });
   };
 
+  hideMenu = () => {
+    console.log("hideMenu");
+    this.setState({ hamburgerMenuShowing: false });
+  };
+
   render() {
     const { width, hamburgerMenuShowing } = this.state;
     let homeButtonContent, navClass;
@@ -44,10 +52,7 @@ export default class Navbar extends Component {
     if (width < 700) {
       homeButtonContent = "Home";
     } else {
-      homeButtonContent = (
-        // <img className="home-button-icon" src="./home.png" alt="Home"></img>
-        <HomeIcon className="home-button-icon"></HomeIcon>
-      );
+      homeButtonContent = <HomeIcon className="home-button-icon"></HomeIcon>;
     }
 
     if (!hamburgerMenuShowing) navClass = "menu";
@@ -55,27 +60,42 @@ export default class Navbar extends Component {
 
     return (
       <div>
-        <div id="nav-spacer"></div>
-        <div className="nav" id="topMenu">
-          <div id="top-bar"></div>
-          <label
-            onClick={this.showOrHideMenu}
-            className="hamburger"
-            htmlFor="toggle"
-          >
-            &#9776;
-          </label>
-          {/* <input type="checkbox" id="toggle" /> */}
-          <div className={navClass}>
-            <Link id="home-button-link" to="/">
-              {homeButtonContent}
-            </Link>
-            <Link to="/artworks">Artworks</Link>
-            <Link to="/exhibitions">Exhibitions</Link>
-            <Link to="/cv">CV</Link>
-            <Link to="/contact">Contact</Link>
+        <Swipe onSwipeUp={this.hideMenu} onSwipeDown={this.showOrHideMenu}>
+          <div id="nav-spacer"></div>
+          <div className="nav" id="topMenu">
+            <div id="top-bar"></div>
+            <div id="hamburger">
+              <HamburgerMenu
+                isOpen={hamburgerMenuShowing}
+                menuClicked={this.showOrHideMenu}
+                width={50}
+                height={35}
+                strokeWidth={4}
+                rotate={0}
+                color="black"
+                borderRadius={5}
+                animationDuration={0.3}
+              ></HamburgerMenu>
+            </div>
+            <div className={navClass}>
+              <Link id="home-button-link" to="/" onClick={this.hideMenu}>
+                {homeButtonContent}
+              </Link>
+              <Link to="/artworks" onClick={this.hideMenu}>
+                Artworks
+              </Link>
+              <Link to="/exhibitions" onClick={this.hideMenu}>
+                Exhibitions
+              </Link>
+              <Link to="/About" onClick={this.hideMenu}>
+                About
+              </Link>
+              <Link to="/contact" onClick={this.hideMenu}>
+                Contact
+              </Link>
+            </div>
           </div>
-        </div>
+        </Swipe>
       </div>
     );
   }

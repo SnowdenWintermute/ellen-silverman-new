@@ -8,6 +8,9 @@ import Footer from "./components/layout/Footer";
 import Artworks from "./components/artworks/Artworks";
 import LandingPage from "./components/landing/LandingPage";
 import FullResolutionImage from "./components/artworks/FullResolutionImage";
+import Cv from "./components/cv/Cv";
+import Exhibitions from "./components/Exhibitions/Exhibitions";
+import Contact from "./components/contact/Contact";
 
 function App() {
   return (
@@ -33,6 +36,9 @@ function App() {
             component={PageLabel}
           />
         </Switch>
+        <Route exact path="/about" component={Cv}></Route>
+        <Route exact path="/exhibitions" component={Exhibitions}></Route>
+        <Route exact path="/contact" component={Contact}></Route>
         <Route
           exact
           path="/artworks/:category?/:painting?"
