@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import { ReactSVG } from "react-svg";
 
 import ImageFadeSlideshow from "./ImageFadeSlideshow";
 import ElementSlider from "./ElementSlider";
@@ -17,7 +16,7 @@ export default class LandingPage extends Component {
             "./img/Salt Marsh/Salt Marsh, Birds.jpg",
             "./img/South Dakota Trip/Devil's Tower.jpg",
             "./img/Forest Path/A Walk in the Woods.jpg",
-            "./img/Cold River Camp/Cold River Vatican City.jpg"
+            "./img/Cold River Camp/Cold River Vatican City.jpg",
           ]}
         />
         <ElementSlider
@@ -32,7 +31,7 @@ export default class LandingPage extends Component {
                 </React.Fragment>
               ),
               showClass: "element-slider-show",
-              hiddenClass: "element-slider-hidden-top"
+              hiddenClass: "element-slider-hidden-top",
             },
             {
               element: (
@@ -42,8 +41,8 @@ export default class LandingPage extends Component {
                 </React.Fragment>
               ),
               showClass: "element-slider-show",
-              hiddenClass: "element-slider-hidden-top"
-            }
+              hiddenClass: "element-slider-hidden-top",
+            },
           ]}
         />
       </div>

@@ -2,13 +2,13 @@ import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import { withRouter } from "react-router-dom";
 import {
-  Magnifier,
+  // Magnifier,
   MagnifierContainer,
-  GlassMagnifier,
+  // GlassMagnifier,
   SideBySideMagnifier,
-  PictureInPictureMagnifier,
-  MOUSE_ACTIVATION,
-  TOUCH_ACTIVATION
+  // PictureInPictureMagnifier,
+  // MOUSE_ACTIVATION,
+  // TOUCH_ACTIVATION
 } from "react-image-magnifiers";
 
 import paintingList from "./paintingList";
@@ -17,11 +17,11 @@ class PaintingDetailedPage extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      painting: {}
+      painting: {},
     };
   }
   componentDidMount() {
-    paintingList["Sheet1"].forEach(painting => {
+    paintingList["Sheet1"].forEach((painting) => {
       if (painting["Name"] === this.props.paintingName) {
         this.setState({ painting });
       }

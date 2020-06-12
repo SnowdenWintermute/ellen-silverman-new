@@ -5,7 +5,10 @@ class FullResolutionImage extends Component {
     const { params } = this.props.match;
     return (
       <React.Fragment>
-        <img src={`/img/${params.category}/${params.painting}`}></img>
+        <img
+          src={`/img/${params.category}/${params.painting}`}
+          alt={`${params.painting}`}
+        ></img>
       </React.Fragment>
     );
   }

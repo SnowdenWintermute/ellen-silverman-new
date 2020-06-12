@@ -1,25 +1,61 @@
 import React from "react";
+// import Carousel from "nuka-carousel";
+// import CarouselButton from "./CarouselButton";
+import ExhibitionViewer from "./ExhibitionViewer";
 
 export default function Exhibitions() {
   return (
     <div className="exhibitions-parent">
-      <div className="art-show-holder">
-        <div className="art-show-card">
-          <img src="../img/Art Show Pictures 2018/Roosevelt Art in the Woods 6.jpg"></img>
-          <div className="art-show-title">
-            Art in the Woods - Roosevelt, NJ 2018
-          </div>
-        </div>
-        <div className="art-show-card">
-          <img src="../img/Art Show Pictures 2018/Roebling3.jpg"></img>
-          <div className="art-show-title">
-            Roebling Gallery - Trenton, NJ 2019
-          </div>
-        </div>
+      <div className="exhibitions-container">
+        {/* <Carousel
+          className={"story-carousel"}
+          dragging={true}
+          // decorators={decorators}
+        >
+          ---content---
+        </Carousel> */}
+
+        <ExhibitionViewer
+          title="Fence Line Gallery"
+          subtitle="Roosevelt, NJ 2020"
+          description="During the lockdown Ellen displayed her artwork along the garden fence in her front yard. During this time she asked visitors to submit stories inspired by her art. Linked below is one of those stories which was turned into an animated scrollable story for the web."
+          link={{
+            title: "The Professor (Scrollable Story)",
+            url: "/the-professor",
+          }}
+          background=""
+          sideImages={[
+            "../img/Art Show Pictures 2020/Fence Line 1.jpg",
+            "../img/Art Show Pictures 2020/Fence Line 2.jpg",
+            "../img/Art Show Pictures 2020/Fence Line 3.jpg",
+          ]}
+        />
+        <ExhibitionViewer
+          title="Art in the Woods"
+          subtitle="Roosevelt, NJ 2018"
+          description="Community members adorned a local nature trail with artwork to create a walkable gallery. Ellen posted a series of artworks from the Acrylic Collage and Stone in the Middle of the Road series."
+          background=""
+          sideImages={[
+            "../img/Art Show Pictures 2018/Roosevelt Art in the Woods 2018 4.jpg",
+            "../img/Art Show Pictures 2018/Roosevelt Art in the Woods 2018 5.jpg",
+            "../img/Art Show Pictures 2018/Roosevelt Art in the Woods 2018 3.jpg",
+          ]}
+        />
+        <ExhibitionViewer
+          title="Art All Day "
+          subtitle="Trenton Artworks - Trenton, NJ 2019"
+          background=""
+          sideImages={[
+            "../img/Art Show Pictures 2019/Art All Day Trent House 2.jpg",
+            "../img/Art Show Pictures 2019/Art All Day Trent House 4.jpg",
+            "../img/Art Show Pictures 2019/Art All Day Trent House.jpg",
+          ]}
+        />
       </div>
       <div className="exhibitions-list">
         <h2>Past Exhibitions</h2>
         <br></br>
+        <p>Roebling Gallery - Trenton, NJ 2019</p>
         <p>Ellarslie Furniture and Interior Theme Show, Spring 2017</p>
         <p>Garden State Watercolor Society Juried Show, 2016 - 2017</p>
         <p>Monmouth Museum Winter Juried Show, Winter 2016</p>

@@ -8,7 +8,7 @@ export default class ElementSlider extends Component {
       slideClasses: [],
       slides: [],
       currentIndex: 1,
-      slideTimer: null
+      slideTimer: null,
     };
   }
 
@@ -36,12 +36,12 @@ export default class ElementSlider extends Component {
     if (slideClasses[0]) {
       let newCurrentIndex = currentIndex;
       this.state.slideClasses[currentIndex] = slides[currentIndex].showClass;
-      if (currentIndex == slideClasses.length - 1) {
+      if (currentIndex === slideClasses.length - 1) {
         newCurrentIndex = 0;
         this.state.slideClasses[slideClasses.length - 2] =
           slides[slides.length - 2].hiddenClass;
       } else if (currentIndex < slideClasses.length - 1) {
-        if (currentIndex == 0) {
+        if (currentIndex === 0) {
           this.state.slideClasses[slideClasses.length - 1] =
             slides[slides.length - 1].hiddenClass;
         } else {
@@ -60,7 +60,6 @@ export default class ElementSlider extends Component {
     let slideElements = [];
 
     slides.forEach((slide, i) => {
-      let slideElement = slide.element;
       slideElements.push(
         <div key={i} className={slideClasses[i]}>
           {slide.element}

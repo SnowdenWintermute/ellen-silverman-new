@@ -18,7 +18,7 @@ export default class ArtworksCategory extends Component {
       cards.push(
         <PaintingCategoryCard
           imgSrc={{
-            uri: `../img/${painting["Category"]}/thumbs/${painting["Name"]}.jpg`
+            uri: `../img/${painting["Category"]}/thumbs/${painting["Name"]}.jpg`,
           }}
           category={painting["Category"]}
           picTitle={painting["Name"]}
