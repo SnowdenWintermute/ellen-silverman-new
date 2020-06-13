@@ -180,7 +180,7 @@ const BunStoryImages = (props) => {
         setCameraFlashActiveClass("");
         setTimeout(() => {
           setCameraFlashActiveClass("camera-flash-inactive");
-        }, 100);
+        }, 700);
       }
       setItalianClass("italian-pos-4");
     }

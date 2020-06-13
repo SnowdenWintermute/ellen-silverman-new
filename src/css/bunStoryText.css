@@ -7,6 +7,16 @@
   padding: 20px;
   z-index: 2;
 }
+.story-title {
+  color: white;
+  font-family: "Josefin Slab", "Source Sans Pro", sans-serif;
+  font-weight: bold;
+  font-size: 54px;
+  text-align: center;
+  margin-top: 20vh;
+  margin-bottom: 50px;
+  text-shadow: 1px 1px 10px black;
+}
 .bun-story-text {
   color: white;
   font-family: "Josefin Slab", "Source Sans Pro", sans-serif;
@@ -69,6 +79,14 @@
     padding: 10px;
     font-size: 14px;
     width: 50%;
+  }
+  .story-title {
+    font-size: 24px;
+  }
+}
+@media screen and (max-height: 700px) {
+  .story-title {
+    font-size: 24px;
   }
 }
 @media screen and (max-width: 600px) {

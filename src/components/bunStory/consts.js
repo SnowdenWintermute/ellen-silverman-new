@@ -19,7 +19,7 @@ export const texts = {
   text9:
     "Before continuing you turn your head to where you entered and see no sign of the Tea Room. You feel as sense of je ne sais pas. Almost like a force beyond your comprehension is guiding you through the rooms safely. Although slightly disturbed at the thought that something could be skulking in the shadows you press on through the courtyard.",
   text10:
-    "“Perhaps these realms aren’t devoid of life as The Professor specula...”",
+    "“Perhaps these realms aren’t devoid of life as The Professor specula-”",
   text11:
     "Your voice is interrupted as a rustling in the plants near you startles the otherwise peaceful room. Steeling yourself, you remember the fate of this world rests on your shoulders, you slowly approach the moving leaves.",
   text12:
@@ -71,7 +71,7 @@ export const texts = {
   text39: `Cern-Art Employee A: “Hey haven’t we been to this room already?!”`,
   text40: `Cern-Art Employee B: “Keep searching we can’t let The Professor’s clues escape us. Your job depends on it.”`,
   text41: `Cern-Art Employee C: “Yeah but we’ve haven’t found a single one so far and plus this place gives me the creeps.”`,
-  text42: `Cern-Art Employee C: “He’s right! We don’t even know what happened to the first squad! This place is dangerous.”`,
+  text42: `Cern-Art Employee D: “He’s right! We don’t even know what happened to the first squad! This place is dangerous.”`,
   text43: `Cern-Art Empolyee B: “I know. That’s why we are getting The Professor’s clues and getting the hell out of here.”`,
   text44: `Cern-Art Employee A, C, D: “Yes Captian!”`,
   text45: `Cern-Art Captain: “Spread out, leave nothing unsearched.”`,

@@ -109,6 +109,7 @@ const BunStoryText = (props) => {
 
   return (
     <div className="bun-story-text-container" ref={textContainerRef}>
+      <div className="story-title">~ The Professor ~</div>
       {textElements}
       {
         <div className={`story-credits-container`} ref={creditsRef}>
